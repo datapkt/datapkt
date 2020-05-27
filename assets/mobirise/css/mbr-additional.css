@@ -108,8 +108,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #4eb8dc !important;
-  border-color: #4eb8dc !important;
+  background-color: #b51239 !important;
+  border-color: #b51239 !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -2275,7 +2275,7 @@ section.lazy-placeholder:after {
   min-height: 188px;
 }
 .cid-s04ZuALnbj H2 {
-  color: #149dcc;
+  color: #b51239;
 }
 .cid-s06AOKq2oB {
   padding-top: 30px;

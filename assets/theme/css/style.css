@@ -496,7 +496,8 @@ blockquote {
   padding: 1.07em 0.5em;
 }
 .form-control, .form-control:focus {
-  border: 1px solid #e8e8e8;
+  border: 2px solid #b51239;
+  border-radius: 20px;
 }
 .form-active .form-control:invalid {
   border-color: red;
